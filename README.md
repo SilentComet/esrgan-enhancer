@@ -316,19 +316,6 @@ npm run format
 
 MIT License - See LICENSE file for details
 
-## 👥 Authors
-
-**Senior ML Engineering Team**
-- ESRGAN model implementation & training pipeline
-
-**Backend Engineering Team**
-- FastAPI architecture & async task processing
-
-**Frontend Engineering Team**
-- React UI/UX & responsive design
-
-**DevOps Team**
-- Docker orchestration & CI/CD pipeline
 
 ---
 
