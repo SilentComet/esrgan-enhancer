@@ -1,7 +1,6 @@
 # ESRGAN Image Enhancement Platform
 
 **Version:** 1.0  
-**Authored by:** Senior ML Engineering & Full-Stack Development Team  
 **Date:** April 2026
 
 A production-grade web application for high-quality image super-resolution using ESRGAN (Enhanced Super-Resolution Generative Adversarial Network). This platform enables users to upload low-resolution images and receive 4× super-resolved outputs with professional UX, enterprise-level security, and scalability.
